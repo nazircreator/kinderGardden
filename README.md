@@ -1,4 +1,4 @@
-# 🌱 Little Sprouts — A Gentle Garden
+# Kindder garden!
 
 Уютная пиксельная игра-симулятор сада на **React + TypeScript + Canvas**.
 Вы — садовник (keeper), а в саду живут **растения-малыши**: они ходят, бегают,
